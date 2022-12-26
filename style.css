@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    font-style: inherit;
+}
+
+h1{
+    text-align: center;
+    
+}
+a{
+    margin: 5px;
+}
+p{
+    color: brown;
+    font-weight: bold;
+    font: display 5px;
+    align-items: center;
+}
+body{background:rgb(170, 162, 153);
+
+}
+h3{color: darkgreen;}
+h4{margin: 5px;}
